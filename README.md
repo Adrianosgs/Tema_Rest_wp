@@ -5,9 +5,9 @@
 
 ## 🚀 Sobre o Projeto
 
-![Captura de tela de 2022-05-16 19-20-25](https://user-images.githubusercontent.com/69124206/168691786-3b457157-ef29-4f4f-b2ee-bd1e4bd1b041.png)
-
 Projeto desenvolvido com WordPress dando a liberdade ao proprietario para fazer as devidas alterações em seu site.
+
+![Captura de tela de 2022-05-16 19-20-25](https://user-images.githubusercontent.com/69124206/168691786-3b457157-ef29-4f4f-b2ee-bd1e4bd1b041.png)
 
 
 ## Objetivo do projeto 

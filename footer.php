@@ -1,10 +1,13 @@
 <footer>
   <nav class="nav-footer">
     <ul>
-      <li class="current_page_item"><a href="/">Menu</a></li>
-      <li><a href="/Sobre/">Sobre</a></li>
-      <li><a href="/Contato/">Contato</a></li>
-    </ul>
+      <?php
+	$args = array(
+		'menu' => 'principal',
+		'container' => false
+	);
+	wp_nav_menu( $args );
+?>
   </nav>
 
   <p><?php bloginfo('name'); ?> © <?php echo date("Y"); ?>. Alguns direitos reservados.</p>
